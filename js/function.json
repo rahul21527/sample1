@@ -4,7 +4,7 @@
       "name": "myBlob",
       "type": "blobTrigger",
       "direction": "in",
-			"path":"first/{name}"
+      "path":"first/{name}"
     },
     {
       "name": "myInputBlob",
@@ -15,7 +15,7 @@
     {
       "name": "myOutputBlob",
       "type": "blob",
-      "path": "first/test-copy",
+      "path": "first/test",
       "direction": "out"
     }
   ],
