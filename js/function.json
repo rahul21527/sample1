@@ -4,7 +4,7 @@
       "name": "myBlob",
       "type": "blobTrigger",
       "direction": "in",
-			"path":"first/{name}
+			"path":"first/{name}"
     },
     {
       "name": "myInputBlob",
