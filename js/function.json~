@@ -9,13 +9,13 @@
     {
       "name": "myInputBlob",
       "type": "blob",
-      "path": "first/{blobTrigger}",
+      "path": "first/test",
       "direction": "in"
     },
     {
       "name": "myOutputBlob",
       "type": "blob",
-      "path": "first/{blobTrigger}",
+      "path": "first/test-copy",
       "direction": "out"
     }
   ],
